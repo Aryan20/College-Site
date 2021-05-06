@@ -141,10 +141,10 @@
 }
 
 #tt {
-  height: 640px;
-  scale: 10%;
+  width: 98%;
   margin: auto;
 }
+
 #c_info {
   padding: 10px;
   max-width: fit-content;
