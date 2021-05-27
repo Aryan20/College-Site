@@ -109,6 +109,20 @@
   opacity: 0.965;
   border-radius: 20px;
   margin-bottom: 20px;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+.container {
+  margin: auto;
+}
+
+.form-control {
+  background-color: rgb(139, 139, 139);
+  border: 0px;
+  border-radius: 13px;
+  color: #ffffff;
 }
 
 #tt_box {
@@ -135,14 +149,6 @@
   border-radius: 20px
 }
 
-form {
-  padding: 5px;
-}
-
-input{
-  padding: 5px;
-  margin: 10px;
-}
 
 td{
   padding: 10px;
