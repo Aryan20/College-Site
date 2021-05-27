@@ -33,19 +33,6 @@
   }
 
 
-#bg2 {
-  /* The image used */
-  background-image: url("bg.png");
-    
-  /* Full height */
-  height: fit-content;
-
-  /* Center and scale the image nicely */
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-
 .blog_i {
   width: 80%;
   font-family:Verdana, Brush Script MT, Perpetua;
