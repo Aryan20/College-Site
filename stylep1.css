@@ -6,13 +6,14 @@
     margin-bottom: 0;
     font-size: 12px;
     letter-spacing: 5px;
+    background-color: #110022;
   }
   .navbar-nav  li a:hover {
     color: #aa1c30 !important;
   }
   .jumbotron {
     color: white;
-    background-color: #aa1c30;
+    background-color: #0b0214;
     border-radius: 0px;
   }
   body {
@@ -20,7 +21,7 @@
   }
 
   .dark_modeb {
-    background-color: #26292a;
+    background-color: #151616;
     color: white;
   }
 
@@ -72,7 +73,7 @@
   margin-bottom: 3px;
 }
 #navbutton {
-  background-color: #aa1c30;
+  background-color: #110022;
   color: white;
   border-radius: 10px;
 }
@@ -83,7 +84,7 @@
 .footer {
     padding: 35px;
     color: white;
-    background-color: #aa1c30;
+    background-color: #0b0214;
     border-radius: 0px;
     position: relative;
     bottom: 0px;
