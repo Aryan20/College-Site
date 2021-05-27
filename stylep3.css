@@ -6,6 +6,7 @@
   margin-bottom: 0;
   font-size: 12px;
   letter-spacing: 5px;
+  background-color: #110022;
 }
 
 .navbar-nav  li a:hover {
@@ -14,13 +15,12 @@
 
 .jumbotron {
   color: white;
-  background-color: #aa1c30;
+  background-color: #0b0214;
   border-radius: 0px;
 }
 
 body {
-  background-color: black;
-  background-image: url("bg.jpg");
+  background-color: #151616;
 }
   
 
@@ -108,7 +108,7 @@ h2 {
 .footer {
     padding: 35px;
     color: white;
-    background-color: #aa1c30;
+    background-color: #0b0214;
     border-radius: 0px;
     position: relative;
     bottom: 0px;
