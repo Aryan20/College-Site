@@ -8,10 +8,9 @@
 </defs>
 <g id="surface1">
 <g clip-path="url(#clip1)" clip-rule="nonzero">
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 0 0.453125 L 278.25 0.453125 L 278.25 530.773438 L 0 530.773438 Z M 0 0.453125 "/>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 0 0.453125 L 277.503906 0.453125 L 277.503906 522.546875 L 0 522.546875 Z M 0 0.453125 "/>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 0 0.453125 L 277.503906 0.453125 L 277.503906 522.546875 L 0 522.546875 Z M 0 0.453125 "/>
 <use xlink:href="#image5" transform="matrix(0.50932,0,0,0.509208,-24.410091,-114.598335)"/>
 </g>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(99.609375%,99.609375%,99.609375%);fill-opacity:1;" d="M 197.976562 119.921875 L 263.507812 119.921875 L 263.507812 128.085938 L 197.976562 128.085938 Z M 197.976562 119.921875 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(99.609375%,99.609375%,99.609375%);fill-opacity:1;" d="M 188.796875 328.679688 L 254.328125 328.679688 L 254.328125 336.84375 L 188.796875 336.84375 Z M 188.796875 328.679688 "/>
 </g>
 </svg>
