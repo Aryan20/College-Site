@@ -12,15 +12,16 @@
     color: #aa1c30 !important;
   }
 
+h1 {
+  display: none;
+  animation-name: grow;
+  animation-duration: 3s;
+  animation-fill-mode: forwards;
+}
   @keyframes grow {
 
     from {
       font-size: 0px;
-      display: none;
-    }
-
-    1% {
-      display: block;
     }
 
     to {
@@ -54,13 +55,6 @@
 
 }
   
-  .jumbotron h1 {
-    
-    animation-name: grow;
-    animation-duration: 3s;
-    animation-fill-mode: forwards;
-  }
-
   body {
     background-color: #e7e7e7;
   }
