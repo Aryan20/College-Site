@@ -1,47 +1,7 @@
-.navbar {
-  padding-top: 15px;
-  padding-bottom: 15px;
-  border: 0;
-  border-radius: 0;
-  margin-bottom: 0;
-  font-size: 12px;
-  letter-spacing: 5px;
-  background-color: #110022;
-}
-
-.navbar-nav  li a:hover {
-  color: #aa1c30 !important;
-}
-
-.jumbotron {
-  color: white;
-  background-color: #0b0214;
-  border-radius: 0px;
-}
-
-body {
-  background-color: #151616;
-}
-  
-
-
 h2 {
  font-family: helvetica;
 }
-.fa {
-  padding: 10px;
-  font-size: 20px;
-  max-width: fit-content;
-  text-align: center;
-  text-decoration: none;
-  margin: 5px 2px;
-  border-radius: 50%;
-  align-content: center;
-}
-#social {
-  position: fixed;
-  align-items: center;
-}
+
 .boxes{
   font-family: 'Manrope', sans-serif;
   padding: 50px;
@@ -82,35 +42,4 @@ h2 {
 }
 .bpost {
   z-index: 100;
-}
-.fa:hover {
-    opacity: 0.7;
-}
-.fa-github {
-  background:black;
-  color: white;
-}
-
-.fa-linkedin {
-  background: #007bb5;
-  color: white;
-}
-
-.fa-youtube {
-  background: #bb0000;
-  color: white;
-}
-
-.fa-instagram {
-  background: #125688;
-  color: white;
-}
-.footer {
-    padding: 35px;
-    color: white;
-    background-color: #0b0214;
-    border-radius: 0px;
-    position: relative;
-    bottom: 0px;
-    width: 100%;
 }

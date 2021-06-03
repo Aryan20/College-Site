@@ -15,7 +15,7 @@
 h1 {
   display: none;
   animation-name: grow;
-  animation-duration: 3s;
+  animation-duration: 1s;
   animation-fill-mode: forwards;
 }
   @keyframes grow {
@@ -50,19 +50,15 @@ h1 {
   background-color: #0b0214;
   border-radius: 0px;
   animation-name: sub_grow;
-  animation-duration: 4s;
+  animation-duration: 1s;
   animation-fill-mode: forwards;
 
 }
   
-  body {
-    background-color: #e7e7e7;
-  }
-
-  .dark_modeb {
-    background-color: #151616;
-    color: white;
-  }
+body {
+  background-color: #151616;
+  color: white;
+}
 
   .ib_d {
     background-color: #1f2122;
