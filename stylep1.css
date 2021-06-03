@@ -16,6 +16,11 @@
 
     from {
       font-size: 0px;
+      display: none;
+    }
+
+    1% {
+      display: block;
     }
 
     to {
@@ -27,6 +32,11 @@
   @keyframes sub_grow {
     from {
       font-size: 0px;
+      display: none;
+    }
+
+    1% {
+      display: block;
     }
 
     to {
@@ -45,6 +55,7 @@
 }
   
   .jumbotron h1 {
+    
     animation-name: grow;
     animation-duration: 3s;
     animation-fill-mode: forwards;
