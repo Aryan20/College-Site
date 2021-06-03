@@ -11,11 +11,45 @@
   .navbar-nav  li a:hover {
     color: #aa1c30 !important;
   }
-  .jumbotron {
-    color: white;
-    background-color: #0b0214;
-    border-radius: 0px;
+
+  @keyframes grow {
+
+    from {
+      font-size: 0px;
+    }
+
+    to {
+      font-size: 250%;
+    }
+    
   }
+
+  @keyframes sub_grow {
+    from {
+      font-size: 0px;
+    }
+
+    to {
+      font-size: 100%;
+    }
+  }
+
+.jumbotron {
+  color: white;
+  background-color: #0b0214;
+  border-radius: 0px;
+  animation-name: sub_grow;
+  animation-duration: 4s;
+  animation-fill-mode: forwards;
+
+}
+  
+  .jumbotron h1 {
+    animation-name: grow;
+    animation-duration: 3s;
+    animation-fill-mode: forwards;
+  }
+
   body {
     background-color: #e7e7e7;
   }
