@@ -17,23 +17,25 @@ h1 {
   animation-name: grow;
   animation-duration: 1s;
   animation-fill-mode: forwards;
+  animation-timing-function: ease-out;
 }
 
 h2 {
   font-family: helvetica;
 }
 
-  
+
 .jumbotron {
   color: white;
   background-color: #0b0214;
   border-radius: 0px;
   animation-name: sub_grow;
+  animation-timing-function: ease-out;
   animation-duration: 1s;
   animation-fill-mode: forwards;
 
 }
-  
+
 body {
   background-color: #151616;
   color: white;
@@ -71,7 +73,7 @@ body {
   font-family: 'Manrope', sans-serif;
   font-variation-settings: 'wght' 400;
   font-size: 105%
-} 
+}
 
 h2 {
   font-family: helvetica;
@@ -170,7 +172,7 @@ button {
   to {
     font-size: 250%;
   }
-  
+
 }
 
 @keyframes sub_grow {
